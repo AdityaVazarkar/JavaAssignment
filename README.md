@@ -30,3 +30,5 @@ java Filename
 ```
 ## Screen Short
 ![Screenshot 2022-11-18 090701](https://user-images.githubusercontent.com/97595070/202611434-3696ffb9-9a4d-4370-ba8a-bfe48192f5e1.png)
+
+![Screenshot 2022-11-18 091210](https://user-images.githubusercontent.com/97595070/202611874-3a6c05fb-80ec-4c60-9232-16c4b7d1270e.png)
